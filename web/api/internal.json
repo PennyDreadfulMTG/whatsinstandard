@@ -224,7 +224,7 @@
       "code": "MID",
       "enter_date": "2021-09-24T00:00:00.000",
       "rough_enter_date": "Q3 2021",
-      "exit_date": null,
+      "exit_date": "2024-08-02T00:00:00.000",
       "rough_exit_date": "Q4 2024"
     },
     {
@@ -234,7 +234,7 @@
       "code": "VOW",
       "enter_date": "2021-11-19T00:00:00.000",
       "rough_enter_date": "Q4 2021",
-      "exit_date": null,
+      "exit_date": "2024-08-02T00:00:00.000",
       "rough_exit_date": "Q4 2024"
     },
     {
@@ -244,7 +244,7 @@
       "code": "NEO",
       "enter_date": "2022-02-18T00:00:00.000",
       "rough_enter_date": "Q1 2022",
-      "exit_date": null,
+      "exit_date": "2024-08-02T00:00:00.000",
       "rough_exit_date": "Q4 2024"
     },
     {
@@ -254,7 +254,7 @@
       "code": "SNC",
       "enter_date": "2022-04-29T00:00:00.000",
       "rough_enter_date": "Q2 2022",
-      "exit_date": null,
+      "exit_date": "2024-08-02T00:00:00.000",
       "rough_exit_date": "Q4 2024"
     },
     {
@@ -341,7 +341,7 @@
       "name": "Outlaws of Thunder Junction",
       "codename": "Quilting",
       "block": null,
-      "code": null,
+      "code": "OTJ",
       "enter_date": "2024-04-19T00:00:00.000",
       "rough_enter_date": "Q2 2024",
       "exit_date": null,
@@ -351,8 +351,8 @@
       "name": "Bloomburrow",
       "codename": "Rugby",
       "block": null,
-      "code": null,
-      "enter_date": null,
+      "code": "BLB",
+      "enter_date": "2024-08-02T00:00:00.000",
       "rough_enter_date": "Q3 2024",
       "exit_date": null,
       "rough_exit_date": "Q4 2027"
@@ -361,9 +361,9 @@
       "name": "Duskmourn: House of Horror",
       "codename": "Swimming",
       "block": null,
-      "code": null,
-      "enter_date": null,
-      "rough_enter_date": "Q4 2024",
+      "code": "DSK",
+      "enter_date": "2024-09-27T00:00:00.000",
+      "rough_enter_date": "Q3 2024",
       "exit_date": null,
       "rough_exit_date": "Q4 2027"
     },
